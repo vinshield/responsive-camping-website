@@ -1,6 +1,4 @@
 # Responsive Camping Website
-## [Watch it on youtube](https://youtu.be/Sc4IDvESKHE)
-### Responsive Camping Website
 
 - Responsive Camping Website Design Using HTML CSS & JavaScript
 - Contains animations made with GSAP.
